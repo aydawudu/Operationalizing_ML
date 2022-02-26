@@ -33,6 +33,8 @@ The best model is deployed using Azure container instance and authentication is 
 
 ![](pics/8.PNG)
 
+Benchmark
+
 ![](pics/9.PNG)
 
 
