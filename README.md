@@ -42,3 +42,9 @@ Benchmark
 ## Screencast
 
 https://youtu.be/YncYiSidiNo
+
+# Pipelines
+
+![](pics/10.PNG)
+
+![](pics/11.PNG)
