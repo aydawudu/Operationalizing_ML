@@ -33,12 +33,12 @@ The best model is deployed using Azure container instance and authentication is 
 
 ![](pics/8.PNG)
 
-## Screencast
-https://youtu.be/YncYiSidiNo
 
 Benchmark
 
 ![](pics/9.PNG)
 
 
+## Screencast
 
+https://youtu.be/YncYiSidiNo
