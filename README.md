@@ -14,26 +14,26 @@ Bank Marketing Datasets
 ![](pics/2.png)
 
 Best Model
-![](pics/3.PNG.png)
+![](pics/3.PNG)
 
 ## Step 2: Deploy the best model
 The best model is deployed using Azure container instance and authentication is enabled then the application insights in enabled. 
 
-![](pics/4.png)
+![](pics/4.PNG)
 
-![](pics/5.png)
+![](pics/5.PNG)
 
 ## Step 3: Retrieve logs and Swagger Documentation
 
-![](pics/6.png)
+![](pics/6.PNG)
 
-![](pics/7.png)
+![](pics/7.PNG)
 
 ## Step 4: Consume endpoints and Benchmark results
 
-![](pics/8.png)
+![](pics/8.PNG)
 
-![](pics/9.png)
+![](pics/9.PNG)
 
 
 
