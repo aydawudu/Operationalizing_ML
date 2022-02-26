@@ -45,6 +45,6 @@ https://youtu.be/YncYiSidiNo
 
 # Pipelines
 
-![](pics/10.PNG)
+![](pics/10.png)
 
-![](pics/11.PNG)
+![](pics/11.png)
